@@ -1,2 +1,2 @@
 # Algorithms
-This repository contains examples of different algoritms realized on PHP.
+This repository contains examples of different algorithms realized on PHP.
